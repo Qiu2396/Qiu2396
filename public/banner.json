@@ -1,0 +1,18 @@
+{
+    "banner": [{
+            "id": 1,
+            "imgUrl": "https://ss3.baidu.com/9fo3dSag_xI4khGko9WTAnF6hhy/baike/c0%3Dbaike60%2C5%2C5%2C60%2C20/sign=4fa0452d9925bc313f5009ca3fb6e6d4/4b90f603738da9775b4716c8b051f8198718e3ed.jpg",
+            "title": "小公主艾薇拉与神秘王国2"
+        },
+        {
+            "id": 2,
+            "imgUrl": "https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fb-ssl.duitang.com%2Fuploads%2Fitem%2F201410%2F05%2F20141005183134_Zt2cG.jpeg&refer=http%3A%2F%2Fb-ssl.duitang.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1634119560&t=c06dd164361e90c4caee4a6ce4b59f08",
+            "title": "我的初恋十八岁"
+        },
+        {
+            "id": 3,
+            "imgUrl": "https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fb-ssl.duitang.com%2Fuploads%2Fitem%2F201410%2F05%2F20141005182517_LeceX.jpeg&refer=http%3A%2F%2Fb-ssl.duitang.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1634119590&t=a725fab7932a1147644fc8d56a9ee676",
+            "title": "奇妙王国之魔法奇缘"
+        }
+    ]
+}
