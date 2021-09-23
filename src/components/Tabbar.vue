@@ -50,10 +50,10 @@
                 i{
                     font-size: 1.25rem;
                     margin-bottom: -0.3125rem;
-                    opacity: 50%;   
+                    opacity: 0.5;   
                 }
                 span{
-                    opacity: 80%;
+                    opacity: 0.8;
                     font-size: .9375rem;
 
 

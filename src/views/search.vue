@@ -25,12 +25,12 @@ import obj from '@/util/mixin'
 // console.log(a)
 export default {
     mixins:[obj],
-    beforeCreate() {
-        this.height = document.documentElement.clientHeight - this.$refs.searchtop.$el.offsetHeight +'px'
+    // beforeCreate() {
+       
         
-    },
+    // },
     mounted() {
-
+         this.height = document.documentElement.clientHeight - this.$refs.searchtop.$el.offsetHeight +'px'
         // if(this.$store.state.cinemaslist.length===0){
         //     this.$store.dispatch('getcinemasdata').then(res=>{
         //         console.log(this.computedlist,'111')
@@ -60,7 +60,7 @@ export default {
         return {
             value: '',
             datasearch:[],
-            height:'100px'
+            height:''
         };
     },
     methods: {
